@@ -18,5 +18,5 @@ This project analyzes digital marketing campaigns for an eCommerce store using P
 - Helped improve future marketing strategies through data-driven decisions.
 
 🛠 Tools Used
-Power BI Desktop
-Social Media Campaign Reports (CSV/Excel)
+- Power BI Desktop
+- Social Media Campaign Reports (CSV/Excel)
