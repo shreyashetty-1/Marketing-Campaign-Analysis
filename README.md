@@ -1,5 +1,5 @@
 # Marketing-Campaign-Analysis
-This project analyzes digital marketing campaigns for an eCommerce store using Power BI, with a focus on Facebook, Instagram, and Pinterest platforms.
+This project analyzes digital marketing campaigns for an ecommerce store using Power BI, with a focus on Facebook, Instagram, and Pinterest platforms.
 
 🔍 Project Highlights
 - Analyzed multi-channel campaigns on Facebook, Instagram, and Pinterest.
