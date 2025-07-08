@@ -1,5 +1,5 @@
 # Marketing-Campaign-Analysis
-This project analyzes digital marketing campaigns for an ecommerce store using Power BI, with a focus on Facebook, Instagram, and Pinterest platforms.
+This project analyzes digital marketing campaigns for an e-commerce store using Power BI, with a focus on Facebook, Instagram, and Pinterest platforms.
 
 🔍 Project Highlights
 - Analyzed multi-channel campaigns on Facebook, Instagram, and Pinterest.
@@ -9,7 +9,7 @@ This project analyzes digital marketing campaigns for an ecommerce store using P
 - Tracked and compared platform performance using key metrics:
     - Impressions: Number of times an ad was shown.
     - Clicks: Number of user interactions (visits, actions).
-    - Conversions: Desired actions like purchases, sign-ups, downloads.
+    - Conversions: Desired actions like purchases, sign-ups, and downloads.
 - ROAS (Return on Ad Spend) = Revenue from ads / Ad Spend.
 - ROI (Return on Investment) = (Revenue – Ad Spend) / Ad Spend × 100.
 - Conversion Rate = (Conversions / Clicks) × 100.
